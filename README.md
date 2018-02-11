@@ -3,7 +3,7 @@
 传说中的cheat sheet
 
 | 资源 | 链接 | 备注 | 
-| :- | :- | :- | 
+| :----- | :- | :- | 
 | 官网| https://www.unrealengine.com |我们的主基地|
 | 官方论坛| https://forums.unrealengine.com | 一个适合技术讨论的地方，祝你回帖回到荣誉值超神|
 | 官方问答社区| https://answers.unrealengine.com/index.html | 一个适合问问题和搜刮答案的地方，karma值就是声望，拒绝做伸手党！ |
