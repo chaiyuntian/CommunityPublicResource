@@ -24,9 +24,9 @@
 
 
 技术干货列表
+
 | 文章 | 链接 | 作者 | 
 | :----- | :- | :- | 
-| Unreal Engine 4的光和影| https://www.unrealengine.com/zh-CN/blog/chn-unreal-engine-4-light-and-shadow | 李文磊 |
 | UE4的渲染流程| https://segmentfault.com/a/1190000012737548 | 王文涛 |
 
 
