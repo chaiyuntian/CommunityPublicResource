@@ -19,9 +19,19 @@
 | 官方中文B站| https://space.bilibili.com/138827797#/ | 没有广告，没有广告，没有广告！|
 | 官方中文脸书| https://facebook.com/UnrealEngineChina | 中文版的哟 |
 
-你也许可以加一下这些群
+你也许可以加一下这些技术群
 
-bla bla bla
+
+
+技术干货列表
+| 文章 | 链接 | 作者 | 
+| :----- | :- | :- | 
+| Unreal Engine 4的光和影| https://www.unrealengine.com/zh-CN/blog/chn-unreal-engine-4-light-and-shadow | 李文磊 |
+| UE4的渲染流程| https://segmentfault.com/a/1190000012737548 | 王文涛 |
+
+
+
+ 
 
 未完待续。
 
