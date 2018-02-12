@@ -28,6 +28,18 @@
 | [UE4的渲染流程](https://segmentfault.com/a/1190000012737548)| 王文涛 || 
 
 
+UE4第三方插件合集 
+名称/链接| 类型| 备注 | 
+| :----- | :------ |:------ |
+| [Windows Audio Capture(UE4 Sound Visualization)](https://github.com/kwstasg/WAC) | 可视化 |UE4中的声音可视化|
+| [tensorflow-ue4] | AI |tensorflow 谷歌的AI神器和UE4的结合 |
+| [Zip Utility](https://github.com/getnamo/ZipUtility-ue4)| 实用工具| 压缩和解压缩|
+| [UE4 Socket.IO](https://github.com/getnamo/socketio-client-ue4) | 网络通信| SocketIO 客户端|
+| TODO：| 还有大概100多个可以列举| TODO|
+
+
+
+
 QQ群列表？
  
 
